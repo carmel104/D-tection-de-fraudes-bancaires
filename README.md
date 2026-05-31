@@ -129,15 +129,3 @@ Ces modèles présentent les meilleures capacités de discrimination selon l'AUC
 
 Le Random Forest apparaît particulièrement intéressant grâce à son excellent compromis entre précision et rappel.
 
----
-
-## 🛠️ Technologies utilisées
-
-* R
-* Machine Learning
-* Régression Logistique Ridge
-* CART
-* Random Forest
-* AdaBoost
-
----
